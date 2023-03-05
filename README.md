@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202303051235700.png" width=120 />
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202303051235700.png" width=420 />
 </p>
 
 # Zotero-ChatGPT
